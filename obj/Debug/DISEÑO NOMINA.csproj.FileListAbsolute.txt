@@ -1,0 +1,22 @@
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\bin\Debug\DISEÑO NOMINA.exe.config
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\bin\Debug\DISEÑO NOMINA.exe
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\bin\Debug\DISEÑO NOMINA.pdb
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\obj\Debug\DISEÑO NOMINA.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\obj\Debug\DISEÑO_NOMINA.Facturacion.resources
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\obj\Debug\DISEÑO_NOMINA.Form1.resources
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\obj\Debug\DISEÑO_NOMINA.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\obj\Debug\DISEÑO NOMINA.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\obj\Debug\DISEÑO NOMINA.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\obj\Debug\DISEÑO NOMINA.exe
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\DISEÑO NOMINA\obj\Debug\DISEÑO NOMINA.pdb
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\bin\Debug\DISEÑO NOMINA.exe.config
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\bin\Debug\DISEÑO NOMINA.exe
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\bin\Debug\DISEÑO NOMINA.pdb
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\obj\Debug\DISEÑO NOMINA.csprojAssemblyReference.cache
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\obj\Debug\DISEÑO_NOMINA.Facturacion.resources
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\obj\Debug\DISEÑO_NOMINA.Form1.resources
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\obj\Debug\DISEÑO_NOMINA.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\obj\Debug\DISEÑO NOMINA.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\obj\Debug\DISEÑO NOMINA.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\obj\Debug\DISEÑO NOMINA.exe
+C:\Users\USUARIO\Downloads\c#\DISEÑO DE FACTURA\obj\Debug\DISEÑO NOMINA.pdb
